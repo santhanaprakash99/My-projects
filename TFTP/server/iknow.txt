@@ -1,0 +1,57 @@
+#Loops + conditional
+
+1.wap to check even/odd
+2.wap to check number is +ve/-ve/0
+3.wap to check if a character is vowel or not
+4.Wap to print N natural number
+5.Find the largest/smallest of two numbers
+6.Find the largest/smallest of three numbers
+7.wap to print sum of N natural numbers
+8.wap to find the factorial of a given number
+9.wap to check if the number is in range or not like 0 to 100, -50 to 70
+10.switchcase-basecalculator
+11.wap to 2 power series up to the limit given by the user
+12.wap to print x^y
+13.wap to check if a number is prime or not
+14.wap to prime up to limit L
+15.wap to print N prime numbers
+16.wap to print positive fibonacci series
+17.wap to print negative fibonacci series
+18.wap reverse an integer number
+19.wap to check if the number is palindrome or not
+20.wap to count the digit of a given number
+21.wap to swap two integers
+
+
+#Array
+
+1.find sum/average of elements of given array
+2.search element in an array
+3.print in reverse order
+4.find the largest and smallest 
+5.reverse the array
+6.bubble sort
+7.check array palindrome or not
+8.remove dups in array
+
+
+#Recursion
+
+1.wap to print n natural numbers
+2.wap to print reverse natural numbers
+3.wap to find sum of n natural numbers
+4.wap to find factorial
+
+#Strings
+1.wap to print string using the loop
+2.wap to print string using the function
+3.find the length of the string using function
+4.wap to count the vowels in the string
+5.check if the string is palindrome or not
+6.wap to check the string is unique or not
+7.wap to squeeze format of a given string - aaabb->3a2b
+8.check if the string is pangram or not
+9.validate password string with one capital,small, digit, special and length be 8 atleast
+10.wap to unsqueeze format of a string - 3a2b -> aaabb
+
+#
