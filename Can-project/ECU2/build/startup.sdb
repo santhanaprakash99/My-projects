@@ -1,0 +1,5 @@
+[p ASM ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F4580 ]
+"1 build/startup.s
